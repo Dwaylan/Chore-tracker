@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import styled from "styled-components";
 
 // Tacked template literal to call a method. This method will return a new button
